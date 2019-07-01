@@ -4,6 +4,9 @@ sol: sudo pip3 install numpy==1.16.1
 
 ---------------------
 
+ImportError: Imageio Pillow plugin requires Pillow, not PIL!
+sol: sudo pip3 install -U pillow
+
 
 
 
