@@ -1,0 +1,9 @@
+
+numpy.ufunc size changed, may indicate binary incompatibility. Expected 216 from C header, got 192 from PyObject.
+sol: sudo pip3 install numpy==1.16.1
+
+---------------------
+
+
+
+
